@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Maria Julia da Silva",
+      "email": "mjds@empresa.com.br"
+    },
+    {
+      "name": "Anna",
+      "email": "anna@anna.com.br",
+      "id": 5
+    },
+    {
+      "name": "Ingrid",
+      "email": "ingrid@dumb.com",
+      "id": 6
+    }
+  ]
+}
